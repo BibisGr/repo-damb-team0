@@ -5,13 +5,13 @@ import { FooterComponent } from './component/footer/footer.component';
 
 export const routes: Routes = [
     {
-        path: 'Inicio',
+        path: 'inicio',
         title: 'Inicio',
         component: HomeComponent
     },
     {
-        path: 'navbar',
-        title: 'Navbar',
+        path: 'navegacion',
+        title: 'Navegacion',
         component: NavbarComponent
     },
     {
