@@ -5,8 +5,8 @@ import { FooterComponent } from './component/footer/footer.component';
 
 export const routes: Routes = [
     {
-        path: 'home',
-        title: 'Home',
+        path: 'Inicio',
+        title: 'Inicio',
         component: HomeComponent
     },
     {
